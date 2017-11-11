@@ -1,30 +1,30 @@
 {
-  "iOS" : [
-    {
-      "hash" : "bd051c787c41b2ff0591e730cbc7a4b2419e21528b83ae69e38d7fe1802b0fd3",
-      "name" : "GlucoseKit"
-    },
-    {
-      "hash" : "582aab664843e740676d42dfe5b12934b16fa3882220b69d4f4617297cfd114d",
-      "name" : "InsulinKit"
-    },
-    {
-      "hash" : "d61c42f0273962b469dfd6dd0991b4f21ae7d83acf4b85108a362d5b04ac53d6",
-      "name" : "LoopKit"
-    },
-    {
-      "hash" : "8b0526782af63c9114b896ec1ef03c3384f7adf3966275b903b1cbce3bc79bb9",
-      "name" : "CarbKit"
-    }
+  "Mac" : [
+
   ],
-  "commitish" : "v1.5.0",
   "watchOS" : [
 
   ],
   "tvOS" : [
 
   ],
-  "Mac" : [
-
+  "commitish" : "v1.5.0",
+  "iOS" : [
+    {
+      "name" : "GlucoseKit",
+      "hash" : "e1b88364a9da94cbc9810dfaf2218c1cd90089fe7296c0065451c275e33de7ee"
+    },
+    {
+      "name" : "InsulinKit",
+      "hash" : "cd40f3c1fe7226d0e0544cf9e30cb3edda629bd1a1a46ad1a31fb10c4af5c687"
+    },
+    {
+      "name" : "LoopKit",
+      "hash" : "c6ae636f127b93b996616ea2058d87cf1c5d7b7f3c8d75b571446cc193ee14ac"
+    },
+    {
+      "name" : "CarbKit",
+      "hash" : "821851e4b20835667afce8a8a47fd0b753370cf417f68b967bbea54bafa767bd"
+    }
   ]
 }
