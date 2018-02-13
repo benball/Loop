@@ -12,7 +12,11 @@
   "iOS" : [
     {
       "name" : "ShareClient",
+<<<<<<< HEAD
       "hash" : "773eab4ffb75cf73afe867d790ecf4e5767d354c5816170f4926237b46e2a1ad"
+=======
+      "hash" : "4395d06709d6265fa50352f4172681213ea76ae152f9739ab3c6e7de18f31d24"
+>>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
     }
   ]
 }

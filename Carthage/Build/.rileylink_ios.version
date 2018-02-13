@@ -12,6 +12,7 @@
   "iOS" : [
     {
       "name" : "Crypto",
+<<<<<<< HEAD
       "hash" : "252104bd9bf27d876536f6405d7d78899a9bab34252745ccc7bf12d72b808afd"
     },
     {
@@ -29,6 +30,25 @@
     {
       "name" : "MinimedKit",
       "hash" : "6142ada5549f1c1f1ff0cd69df376b94d329a37cafca0ac8ca267d354c24a20b"
+=======
+      "hash" : "cf827291cafc53cd9784a990f8004938baf00a8846c1242741f7327cc64288a8"
+    },
+    {
+      "name" : "RileyLinkBLEKit",
+      "hash" : "01ee14aa0bef55bc10c3fe873faab44f620c931b5d94d4371b247c71a715fbc3"
+    },
+    {
+      "name" : "NightscoutUploadKit",
+      "hash" : "feacf878673d06ebd7163c0019208534d710694c601f3934c0aaa8668240dc74"
+    },
+    {
+      "name" : "RileyLinkKit",
+      "hash" : "c69283c2261ae49f48518d43abf29a0f6d23269ef6bf711cb3ef1f17277a454e"
+    },
+    {
+      "name" : "MinimedKit",
+      "hash" : "f8bca4e2b5e9aad48e0340c9be8b7a6ff005b9e84ad21931a5cca0ef44a58ddb"
+>>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
     }
   ]
 }

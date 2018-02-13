@@ -12,7 +12,11 @@
   "iOS" : [
     {
       "name" : "Amplitude",
+<<<<<<< HEAD
       "hash" : "1aa2cb0b09d59a9a044dcabf0e38880c5e278f8c15ae37f38af262f8cf1120ed"
+=======
+      "hash" : "679042923a98116dd7270d42e3c35ce499bd2020702689c7f162b1b6091aeb11"
+>>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
     }
   ]
 }

@@ -8,14 +8,22 @@
   "tvOS" : [
     {
       "name" : "SwiftCharts",
+<<<<<<< HEAD
       "hash" : "bab10d0208e1130344a40e9c97c7bee1a601e21c839dc3e2fcb40a29ef2cf84e"
+=======
+      "hash" : "913e158f8e194e975e5a8c8254a4f96d07480fadaa2a2c9e5e458cf367b79642"
+>>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
     }
   ],
   "commitish" : "6b55a26a7b0b95e49202ddc1db5404702fce114f",
   "iOS" : [
     {
       "name" : "SwiftCharts",
+<<<<<<< HEAD
       "hash" : "1e80ff046bc4d192e7d89323f3676cce77561b60514713df1139f572ea9f5ad5"
+=======
+      "hash" : "f6afa26d59be8df3559c924af8c8cd5bb5232948186d359dd1f7d315535768c9"
+>>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
     }
   ]
 }
