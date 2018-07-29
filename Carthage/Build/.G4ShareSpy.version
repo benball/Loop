@@ -13,10 +13,14 @@
     {
       "name" : "G4ShareSpy",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "hash" : "486990d0507d99a28ae42838135323a5ce4a1c73117c9983831025953aea289a"
 =======
       "hash" : "aabf1c9b4825fb2d5a1a9e7597bd76f70c11d26f4f0599fd08551c38d4f8390e"
 >>>>>>> 03afe518a38938b2735732f77e211f970bda20f6
+=======
+      "hash" : "058f1119e227d680500b4adec40a5263cf61104be2580549218f6b5876edc20f"
+>>>>>>> upstream/master
     }
   ]
 }
